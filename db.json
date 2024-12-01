@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Notebook ",
+      "author": "Nicholas Sparks",
+      "genre": "Romance",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Inspirational Fiction",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "title": "The hobbit",
+      "author": "Tolkien",
+      "genre": "Fantasy",
+      "status": "0"
+    },
+    {
+      "id": "4",
+      "title": "Harry potter and the philosophers stone",
+      "genre": "Fantasy",
+      "author": "Jk rowling",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "title": "Me before you",
+      "author": "Jojo moyes",
+      "genre": "Romance",
+      "status": "0"
+    },
+    {
+      "id": "6",
+      "title": "The little prince",
+      "author": "Antonie",
+      "genre": "Fantacy",
+      "status": "1"
+    },
+    {
+      "id": "7",
+      "title": "The Shining",
+      "author": "Stephen kking",
+      "genre": "Horror",
+      "status": "0"
+    },
+    {
+      "id": "8",
+      "title": "The Outsiders",
+      "author": "Hinton",
+      "genre": "Fiction",
+      "status": "0"
+    },
+    {
+      "id": "9",
+      "title": "The Secret",
+      "author": "Rhonda",
+      "genre": "Motivation",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "title": "Darling greatly",
+      "author": "Brene ",
+      "genre": "Psychology",
+      "status": "0"
+    }
+  ]
+}
